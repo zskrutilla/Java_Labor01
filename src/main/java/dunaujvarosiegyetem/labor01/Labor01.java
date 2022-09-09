@@ -14,4 +14,8 @@ public class Labor01 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+        
+    public static void Kiir(String inSzoveg){
+        System.out.println(inSzoveg);
+    }
 }
