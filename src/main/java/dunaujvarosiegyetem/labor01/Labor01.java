@@ -12,7 +12,7 @@ package dunaujvarosiegyetem.labor01;
 public class Labor01 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Kiir("Szia Java!");
     }
         
     public static void Kiir(String inSzoveg){
